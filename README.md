@@ -1,5 +1,5 @@
 
-# 🌟 **Hi there, I'm Yewande Ajayi!** 👋  
+# 🌟 **Hi there, I'm Yewande Omowumi Ajayi!** 👋  
 
 ### 🚀 **Pharmacovigilance | Data Science | Quality Assurance | Drug Safety**  
 
