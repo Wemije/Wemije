@@ -92,7 +92,7 @@ As a **data scientist**, I integrate **Python, R, SQL, and data visualization to
 
 📧 **Email:** [omowumiyewande@gmail.com](mailto:omowumiyewande@gmail.com)  
 🔗 **LinkedIn:** [www.linkedin.com/in/yewande-ajayi](https://www.linkedin.com/in/yewande-ajayi)  
-🌍 **GitHub:** [github.com/YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)  
+🌍 **GitHub:** [github.com/YOUR-GITHUB-WEMIJE](https://github.com/YOUR-GITHUB-WEMIJE)  
 
 ---
 
