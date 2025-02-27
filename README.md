@@ -3,8 +3,6 @@
 
 ### 🚀 **Pharmacovigilance | Data Science | Quality Assurance | Drug Safety**  
 
-![GitHub Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)  
-
 ---
 
 ## 🔬 **About Me**  
@@ -92,7 +90,7 @@ As a **data scientist**, I integrate **Python, R, SQL, and data visualization to
 
 📧 **Email:** [omowumiyewande@gmail.com](mailto:omowumiyewande@gmail.com)  
 🔗 **LinkedIn:** [linkedin](https://www.linkedin.com/in/yewande-omowumi-ajayi/)  
-🌍 **GitHub:** [github.com/YOUR-GITHUB-WEMIJE](https://github.com/YOUR-GITHUB-WEMIJE)  
+🌍 **GitHub:** [github](https://github.com/Wemije)  
 
 ---
 
