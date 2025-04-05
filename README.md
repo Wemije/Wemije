@@ -7,9 +7,11 @@
 
 ## 🔬 **About Me**  
 
-I am a **Pharmacovigilance and Drug Safety Officer** with expertise in **data science, quality assurance, and regulatory compliance**. With years of experience in **adverse event reporting, signal detection, and risk management**, I have worked with **WHO, USAID, UNODC, and UNICEF** to enhance **drug safety and public health initiatives**.  
+I am a Pharmacovigilance and Drug Safety Officer with specialized expertise in data science, quality assurance, and regulatory compliance. With several years of experience in adverse event reporting, signal detection, and risk management, I have contributed to national and international public health initiatives in collaboration with organizations such as the World Health Organization (WHO), USAID, UNODC, and UNICEF to strengthen drug safety systems and promote safer therapeutic outcomes.
 
-As a **data scientist**, I integrate **Python, R, SQL, and data visualization tools like Tableau and Power BI** into pharmacovigilance, making drug safety monitoring more efficient and data-driven.  
+In addition to my pharmacovigilance work, I am a trained phlebotomist, which enhances my practical understanding of clinical and patient-facing procedures in healthcare settings.
+
+As a data scientist, I leverage tools such as Python, R, SQL, Tableau, and Power BI to drive data-informed decisions in drug safety monitoring. By integrating advanced analytics and visualization into pharmacovigilance workflows, I help transform complex safety data into actionable insights, improving the overall efficiency and responsiveness of pharmacovigilance systems.
 
 ---
 
