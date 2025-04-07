@@ -49,6 +49,9 @@ As a data scientist, I leverage tools such as Python, R, SQL, Tableau, and Power
 ## 🏆 **Certifications & Professional Memberships**  
 
 🎖 **Certifications:**  
+✅ **Phlebotomy Certification (CPT 003, 005 and LBS) CPD Certified and OCN level 4**
+✅ **Diploma in Health and social care management, (IMOH), Level 3**                                                                       
+✅ **Certificate in Working with Customers in Health and Social Care, Level 2**
 ✅ **Good Clinical Practice (GCP) Certified**  
 ✅ **Advanced International Pharmacovigilance & Argus Safety Certification (APVASC)**  
 ✅ **ISO 14971:2019 - Risk Management in Medical Devices**  
